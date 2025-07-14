@@ -1,0 +1,17 @@
+
+    ```bash
+    # مقداردهی اولیه گیت
+    git init -b main
+
+    # افزودن تمام فایل‌ها به لیست تغییرات
+    git add .
+
+    # ثبت تغییرات با یک پیام
+    git commit -m "Initial commit: راه‌اندازی اولیه پروژه مدیریت ترافیک"
+
+    # اتصال ریپازیتوری لوکال به ریپازیتوری گیت‌هاب
+    # به جای YOUR_USERNAME/YOUR_REPO.git آدرس ریپازیتوری خود را قرار دهید
+    git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+
+    # ارسال فایل‌ها به گیت‌هاب
+    git push -u origin main
