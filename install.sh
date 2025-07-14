@@ -113,5 +113,4 @@ main() {
     echo -e "مثال: http://YOUR_SERVER_IP/traffic_manager/manage.php\n"
 }
 
-# اجرای تابع اصلی
-main
+
