@@ -7,7 +7,7 @@
 
 # --- متغیرها ---
 # آدرس ریپازیتوری گیت‌هاب خود را اینجا وارد کنید
-REPO_URL="https://github.com/YOUR_USERNAME/YOUR_REPO.git"
+REPO_URL="https://github.com/freeDreamIr/pr1.git"
 # مسیر نصب پنل
 INSTALL_PATH="/var/www/traffic_manager"
 
