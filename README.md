@@ -14,4 +14,4 @@
 برای نصب، کافیست دستور زیر را در ترمینال سرور خود (با دسترسی root) اجرا کنید:
 
 ```bash
-bash <(curl -s [https://raw.githubusercontent.com/freeDreamIr/pr1/main/install.sh](https://raw.githubusercontent.com/freeDreamIr/pr1/main/install.sh))
+bash <(curl -s [https://raw.githubusercontent.com/freeDreamIr/pr1/main/install.sh])
