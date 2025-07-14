@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # =================================================================
@@ -112,5 +111,3 @@ main() {
     echo -e "\nبرای دسترسی به پنل، فایل ${YELLOW}manage.php${NC} را در مرورگر خود باز کنید."
     echo -e "مثال: http://YOUR_SERVER_IP/traffic_manager/manage.php\n"
 }
-
-
